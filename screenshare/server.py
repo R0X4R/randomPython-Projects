@@ -1,7 +1,7 @@
 from vidstream import ScreenShareClient
 import threading
 
-sender = ScreenShareClient('192.168.0.135', 9999)
+sender = ScreenShareClient('IP', PORT) #change IP with your IP and PORT to your port
 
 t = threading.Thread(target=sender.start_stream)
 t.start()
