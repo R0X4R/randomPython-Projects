@@ -6,3 +6,4 @@ This repository only contains random python projects which I code for practice a
 + [Keylogger](https://github.com/R0X4R/randomPython-Projects/blob/main/keylogger.py)
 + [ScreenShare](https://github.com/R0X4R/randomPython-Projects/tree/main/screenshare)
 + [audioRecognizer](https://github.com/R0X4R/randomPython-Projects/blob/main/audioRecognizer.py)
++ [httpx](https://github.com/R0X4R/randomPython-Projects/blob/main/httpx.py)
